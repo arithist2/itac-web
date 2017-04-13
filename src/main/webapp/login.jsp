@@ -12,10 +12,12 @@
 		<link rel="stylesheet" type="text/css" href="easyui/themes/default/easyui.css">
 		<link rel="stylesheet" type="text/css" href="easyui/themes/icon.css">
 		<link rel="stylesheet" type="text/css" href="css/login.css" />
+		<link rel="stylesheet" type="text/css" href="css/jquery.mloading.css">
 		<script src="easyui/jquery.min.js"></script>
 		<script src="easyui/jquery.easyui.min.js"></script>
 		<script src="js/common.js"></script>
 		<script src="js/login.js"></script>
+		<script src="js/jquery.mloading.js"></script>
 	</head>
 	<body>
 		<div id="login-div">
